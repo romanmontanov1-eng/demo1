@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# После определения production-домена добавьте абсолютный URL sitemap.xml:
+# Sitemap: https://example.com/sitemap.xml

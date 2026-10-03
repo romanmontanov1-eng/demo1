@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  PRE-DEPLOY TEMPLATE.
+  Sitemap protocol requires absolute production URLs.
+  Replace DOMAIN_AFTER_DEPLOY with the final Netlify/custom domain before search indexing.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://DOMAIN_AFTER_DEPLOY/</loc></url>
+  <url><loc>https://DOMAIN_AFTER_DEPLOY/services.html</loc></url>
+  <url><loc>https://DOMAIN_AFTER_DEPLOY/about.html</loc></url>
+  <url><loc>https://DOMAIN_AFTER_DEPLOY/prices.html</loc></url>
+  <url><loc>https://DOMAIN_AFTER_DEPLOY/contacts.html</loc></url>
+</urlset>
